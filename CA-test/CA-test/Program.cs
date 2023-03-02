@@ -74,7 +74,8 @@
                 Console.WriteLine("Salamlar");
                 Console.WriteLine("Salamlar");
                 Console.WriteLine("Salamlar");
-                Console.WriteLine("Salamlar");
+                Console.WriteLine("Salamlar")
+
             }
         }
     }
